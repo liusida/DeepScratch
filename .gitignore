@@ -7,3 +7,5 @@ tmp/
 .ipynb_checkpoints/
 .idea/
 github/
+MNIST/
+References/
